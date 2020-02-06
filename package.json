@@ -1,11 +1,19 @@
 {
   "name": "add-test-id-react-native-text",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rammmukul/add-id-react-native-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rammmukul/add-id-react-native-text/issues"
+  },
+  "homepage": "https://github.com/rammmukul/add-id-react-native-text#readme",
   "description": ""
 }
